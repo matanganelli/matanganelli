@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me
+- 🎓 **Composer**
 - 🎓 **Computer Science student**
 - 💻 Learning **Backend Development**, **DevOps**, **Cloud** and **Applied AI**
 - 📘 Currently studying *Software Engineering Fundamentals - IBM*
