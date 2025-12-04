@@ -47,5 +47,5 @@ To become an engineer who can navigate backend, infrastructure and AI — creati
 ## 📫 How to reach me
 - ✉️ Email: *maria.argandona@icloud.com*
 - 🕸️ Site: www.mariatanganelli.com
-- 🔗 LinkedIn: hppt://linkedin.com/in/mtanganelli/
+- 🔗 LinkedIn: http://linkedin.com/in/mtanganelli/
 
