@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Maria!
 
-### 🎶 Composer & Researcher turned Future Backend Engineer  
-Currently transitioning from a background in music and research into the world of software engineering.
+### 🎶 Composer & Researcher and Future Backend Engineer  
 
 ---
 
