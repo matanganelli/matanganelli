@@ -23,7 +23,8 @@
 - REST APIs
 
 ### **DevOps & Cloud (in progress)**
-- Linux  
+- Linux
+- Deploy (Render / Lovable / Cloud Run)
 
 ### **Tools**
 - Git & GitHub  
