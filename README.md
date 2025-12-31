@@ -7,6 +7,7 @@
 ## 🚀 About Me
 - 🎓 **Composer**
 - 🎓 **Computer Science student**
+- 🎓 **Master's Student in Composition & AI**
 - 💻 Learning **Backend Development**, **DevOps**, **Cloud** and **Applied AI**
 - 📘 Currently studying *Software Engineering Fundamentals - IBM*
 - 🔧 Building interdisciplinary projects that merge music and technology, as well as others focused on backend development.
